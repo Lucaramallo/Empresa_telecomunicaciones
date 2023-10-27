@@ -10,3 +10,4 @@ Scope
 Billing Comparisons: Analyzing billing data, identifying discrepancies, and Business strategy through visualizations and reports.
 
 Machine Learning: Implementing predictive machine learning models using historical data for data-driven decision-making.
+![Captura de pantalla 2023-10-26 114714](https://github.com/Lucaramallo/Empresa_telecomunicaciones/assets/95667827/ba2dd411-61ce-497d-a657-d528b505051a)
